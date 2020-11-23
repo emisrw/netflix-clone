@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Home, Browse, Signin, Signup } from "./pages";
 import * as ROUTES from "./constants/routers";
 
-function app() {
+export function App() {
   return (
     <Router>
       <Route exact path={ROUTES.HOME}>
@@ -21,5 +21,3 @@ function app() {
     </Router>
   );
 }
-
-export default app;
