@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/netflix/static/js/main.3c0144de.chunk.js",
-    "main.js.map": "/netflix/static/js/main.3c0144de.chunk.js.map",
-    "runtime-main.js": "/netflix/static/js/runtime-main.570a3e4f.js",
-    "runtime-main.js.map": "/netflix/static/js/runtime-main.570a3e4f.js.map",
-    "static/css/2.679831fc.chunk.css": "/netflix/static/css/2.679831fc.chunk.css",
-    "static/js/2.b511f6a5.chunk.js": "/netflix/static/js/2.b511f6a5.chunk.js",
-    "static/js/2.b511f6a5.chunk.js.map": "/netflix/static/js/2.b511f6a5.chunk.js.map",
-    "index.html": "/netflix/index.html",
-    "static/css/2.679831fc.chunk.css.map": "/netflix/static/css/2.679831fc.chunk.css.map",
-    "static/js/2.b511f6a5.chunk.js.LICENSE.txt": "/netflix/static/js/2.b511f6a5.chunk.js.LICENSE.txt",
-    "static/media/logo.5787551b.svg": "/netflix/static/media/logo.5787551b.svg"
+    "main.js": "/netflix-clone/static/js/main.3c0144de.chunk.js",
+    "main.js.map": "/netflix-clone/static/js/main.3c0144de.chunk.js.map",
+    "runtime-main.js": "/netflix-clone/static/js/runtime-main.5ec63885.js",
+    "runtime-main.js.map": "/netflix-clone/static/js/runtime-main.5ec63885.js.map",
+    "static/css/2.679831fc.chunk.css": "/netflix-clone/static/css/2.679831fc.chunk.css",
+    "static/js/2.e003d05a.chunk.js": "/netflix-clone/static/js/2.e003d05a.chunk.js",
+    "static/js/2.e003d05a.chunk.js.map": "/netflix-clone/static/js/2.e003d05a.chunk.js.map",
+    "index.html": "/netflix-clone/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/netflix-clone/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.e003d05a.chunk.js.LICENSE.txt": "/netflix-clone/static/js/2.e003d05a.chunk.js.LICENSE.txt",
+    "static/media/logo.5787551b.svg": "/netflix-clone/static/media/logo.5787551b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.570a3e4f.js",
+    "static/js/runtime-main.5ec63885.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.b511f6a5.chunk.js",
+    "static/js/2.e003d05a.chunk.js",
     "static/js/main.3c0144de.chunk.js"
   ]
 }
