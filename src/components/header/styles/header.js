@@ -11,7 +11,7 @@ export const Background = styled.div`
       rgba(0, 0, 0, 0.35)
     ),
     url(${({ src }) =>
-        src ? `../images/misc/${src}.jpg` : "../images/misc/home-bg.jpg"})
+        src ? `./images/misc/${src}.jpg` : "./images/misc/home-bg.jpg"})
       top left / cover no-repeat;
   @media (max-width: 1100px) {
     ${({ dontShowOnSmallViewPort }) =>
@@ -101,13 +101,14 @@ export const SearchIcon = styled.button`
 export const ButtonLink = styled(ReachRouterLink)`
   display: block;
   background-color: #e50914;
-  width: 84px;
+  line-height: normal;
+  padding: 7px 17px;
+  font-weight: 400;
+  font-size: 1rem;
   height: fit-content;
   color: white;
   border: 0;
-  font-size: 15px;
   border-radius: 3px;
-  padding: 8px 17px;
   cursor: pointer;
   text-decoration: none;
   &:hover {

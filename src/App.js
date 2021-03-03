@@ -8,7 +8,7 @@ export function App() {
   const { user } = useAuthListener();
 
   return (
-    <Router>
+    <Router basename={"/netflix-clone"}>
       <IsUserRedirect
         user={user}
         loggedInPath={ROUTES.BROWSE}
